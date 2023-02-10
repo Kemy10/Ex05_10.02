@@ -1,0 +1,8 @@
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\bin\Debug\Ex5_10.02.23.exe.config
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\bin\Debug\Ex5_10.02.23.exe
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\bin\Debug\Ex5_10.02.23.pdb
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\obj\Debug\Ex5_10.02.23.csproj.AssemblyReference.cache
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\obj\Debug\Ex5_10.02.23.csproj.SuggestedBindingRedirects.cache
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\obj\Debug\Ex5_10.02.23.csproj.CoreCompileInputs.cache
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\obj\Debug\Ex5_10.02.23.exe
+C:\Users\kemylin.kafreitas\source\repos\Ex5_10.02.23\obj\Debug\Ex5_10.02.23.pdb
